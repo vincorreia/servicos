@@ -1,0 +1,14 @@
+{
+	"common": {
+		"home": "Home",
+		"settings": "Settings",
+		"about": "About",
+		"help": "Help",
+		"logout": "Logout",
+		"login": "Login",
+		"register": "Register",
+		"search": "Search",
+		"searching": "Searching",
+		"contact": "Contact"
+	}
+}
